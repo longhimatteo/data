@@ -1,0 +1,25 @@
+numero;ruolo;nome;squadra;dataNascita
+1;Portiere;Gianluigi Buffon;Juventus;28/01/1978
+2;Difesa;Cristian Zaccardo;Palermo;21/12/1981
+3;Difesa;Fabio Grosso;Inter;28/11/1977
+4;Centrocampo;Daniele De Rossi;Roma;24/07/1983
+5;Difesa;Fabio Cannavaro;Real Madrid;13/09/1973
+6;Difesa;Andrea Barzagli;Palermo;08/05/1981
+7;Attacco;Alessandro Del Piero;Juventus;09/11/1974
+8;Centrocampo;Gennaro Gattuso;Milan;09/01/1978
+9;Attacco;Luca Toni;Fiorentina;26/05/1977
+10;Attacco;Francesco Totti;Roma;27/09/1976
+11;Attacco;Alberto Gilardino;Milan;05/07/1982
+12;Portiere;Angelo Peruzzi;Lazio;16/02/1970
+13;Difesa;Alessandro Nesta;Milan;19/03/1976
+14;Portiere;Marco Amelia;Livorno;02/04/1982
+15;Attacco;Vincenzo Iaquinta;Udinese;21/11/1979
+16;Centrocampo;Mauro Camoranesi;Juventus;04/10/1976
+17;Centrocampo;Simone Barone;Torino;30/04/1978
+18;Attacco;Filippo Inzaghi;Milan;09/08/1973
+19;Difesa;Gianluca Zambrotta;FC Barcelona;19/02/1977
+20;Centrocampo;Simone Perrotta;Roma;17/09/1977
+21;Centrocampo;Andrea Pirlo;Milan;19/05/1979
+22;Difesa;Massimo Oddo;Lazio;14/06/1976
+23;Difesa;Marco Materazzi;Inter;19/08/1973
+;Allenatore;Marcello Lippi;;12/04/1948
