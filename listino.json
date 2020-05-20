@@ -1,14 +1,14 @@
 [
  {
- nome: "mouse",
- prezzo: 16.00
+  nome: "mouse",
+  prezzo: 16.00
  },
  {
- nome: "tastiera",
- prezzo: 25.00
+  nome: "tastiera",
+  prezzo: 25.00
  },
  {
- nome: "stampante",
- prezzo: 350.00
+  nome: "stampante",
+  prezzo: 350.00
  }
-];
+]
