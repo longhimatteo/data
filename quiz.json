@@ -11,14 +11,14 @@
     },
     {
         "type": "select",
-        "text": "Quanti valori può assumere una variabile booleana?",
+        "text": "Quanti valori può assumere una variabile BOOLEANA?",
         "answers": [
             {
                 "choiche": "1",
                 "grade": 0
             },
             {
-                "choiche": "2",
+                "choiche": "22",
                 "grade": 100
             },
             {
