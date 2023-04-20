@@ -4,7 +4,7 @@
         "text": "Qual è il linguaggio per le basi di dati?",
         "answers": [
             {
-                "choiche": "SQL",
+                "choice": "SQL",
                 "grade": 100
             }
         ]
@@ -14,19 +14,19 @@
         "text": "Quanti valori può assumere una variabile BOOLEANA?",
         "answers": [
             {
-                "choiche": "1",
+                "choice": "1",
                 "grade": 0
             },
             {
-                "choiche": "2",
+                "choice": "2",
                 "grade": 100
             },
             {
-                "choiche": "4",
+                "choice": "4",
                 "grade": 0
             },
             {
-                "choiche": "256",
+                "choice": "256",
                 "grade": 0
             }
         ]
@@ -36,11 +36,11 @@
         "text": "Quali sono le librerie caricate a run-time?",
         "answers": [
             {
-                "choiche": "Statiche",
+                "choice": "Statiche",
                 "grade": 0
             },
             {
-                "choiche": "Dinamiche",
+                "choice": "Dinamiche",
                 "grade": 100
             }
         ]
@@ -50,15 +50,15 @@
         "text": "Quali tra queste sono parole chiave in C++?",
         "answers": [
             {
-                "choiche": "void",
+                "choice": "void",
                 "grade": 100
             },
             {
-                "choiche": "integer",
+                "choice": "integer",
                 "grade": 0
             },
             {
-                "choiche": "char",
+                "choice": "char",
                 "grade": 100
             }
         ]
@@ -68,7 +68,7 @@
         "text": "8 bit corrispondono a un...",
         "answers": [
             {
-                "choiche": "byte",
+                "choice": "byte",
                 "grade": 100
             }
         ]
