@@ -1,0 +1,170 @@
+[
+  {
+    "numero": 1,
+    "ruolo": "Portiere",
+    "nome": "Gianluigi Buffon",
+    "squadra": "Juventus",
+    "dataNascita": "28/01/1978"
+  },
+  {
+    "numero": 2,
+    "ruolo": "Difesa",
+    "nome": "Cristian Zaccardo",
+    "squadra": "Palermo",
+    "dataNascita": "21/12/1981"
+  },
+  {
+    "numero": 3,
+    "ruolo": "Difesa",
+    "nome": "Fabio Grosso",
+    "squadra": "Inter",
+    "dataNascita": "28/11/1977"
+  },
+  {
+    "numero": 4,
+    "ruolo": "Centrocampo",
+    "nome": "Daniele De Rossi",
+    "squadra": "Roma",
+    "dataNascita": "24/07/1983"
+  },
+  {
+    "numero": 5,
+    "ruolo": "Difesa",
+    "nome": "Fabio Cannavaro",
+    "squadra": "Real Madrid",
+    "dataNascita": "13/09/1973"
+  },
+  {
+    "numero": 6,
+    "ruolo": "Difesa",
+    "nome": "Andrea Barzagli",
+    "squadra": "Palermo",
+    "dataNascita": "08/05/1981"
+  },
+  {
+    "numero": 7,
+    "ruolo": "Attacco",
+    "nome": "Alessandro Del Piero",
+    "squadra": "Juventus",
+    "dataNascita": "09/11/1974"
+  },
+  {
+    "numero": 8,
+    "ruolo": "Centrocampo",
+    "nome": "Gennaro Gattuso",
+    "squadra": "Milan",
+    "dataNascita": "09/01/1978"
+  },
+  {
+    "numero": 9,
+    "ruolo": "Attacco",
+    "nome": "Luca Toni",
+    "squadra": "Fiorentina",
+    "dataNascita": "26/05/1977"
+  },
+  {
+    "numero": 10,
+    "ruolo": "Attacco",
+    "nome": "Francesco Totti",
+    "squadra": "Roma",
+    "dataNascita": "27/09/1976"
+  },
+  {
+    "numero": 11,
+    "ruolo": "Attacco",
+    "nome": "Alberto Gilardino",
+    "squadra": "Milan",
+    "dataNascita": "05/07/1982"
+  },
+  {
+    "numero": 12,
+    "ruolo": "Portiere",
+    "nome": "Angelo Peruzzi",
+    "squadra": "Lazio",
+    "dataNascita": "16/02/1970"
+  },
+  {
+    "numero": 13,
+    "ruolo": "Difesa",
+    "nome": "Alessandro Nesta",
+    "squadra": "Milan",
+    "dataNascita": "19/03/1976"
+  },
+  {
+    "numero": 14,
+    "ruolo": "Portiere",
+    "nome": "Marco Amelia",
+    "squadra": "Livorno",
+    "dataNascita": "02/04/1982"
+  },
+  {
+    "numero": 15,
+    "ruolo": "Attacco",
+    "nome": "Vincenzo Iaquinta",
+    "squadra": "Udinese",
+    "dataNascita": "21/11/1979"
+  },
+  {
+    "numero": 16,
+    "ruolo": "Centrocampo",
+    "nome": "Mauro Camoranesi",
+    "squadra": "Juventus",
+    "dataNascita": "04/10/1976"
+  },
+  {
+    "numero": 17,
+    "ruolo": "Centrocampo",
+    "nome": "Simone Barone",
+    "squadra": "Torino",
+    "dataNascita": "30/04/1978"
+  },
+  {
+    "numero": 18,
+    "ruolo": "Attacco",
+    "nome": "Filippo Inzaghi",
+    "squadra": "Milan",
+    "dataNascita": "09/08/1973"
+  },
+  {
+    "numero": 19,
+    "ruolo": "Difesa",
+    "nome": "Gianluca Zambrotta",
+    "squadra": "FC Barcelona",
+    "dataNascita": "19/02/1977"
+  },
+  {
+    "numero": 20,
+    "ruolo": "Centrocampo",
+    "nome": "Simone Perrotta",
+    "squadra": "Roma",
+    "dataNascita": "17/09/1977"
+  },
+  {
+    "numero": 21,
+    "ruolo": "Centrocampo",
+    "nome": "Andrea Pirlo",
+    "squadra": "Milan",
+    "dataNascita": "19/05/1979"
+  },
+  {
+    "numero": 22,
+    "ruolo": "Difesa",
+    "nome": "Massimo Oddo",
+    "squadra": "Lazio",
+    "dataNascita": "14/06/1976"
+  },
+  {
+    "numero": 23,
+    "ruolo": "Difesa",
+    "nome": "Marco Materazzi",
+    "squadra": "Inter",
+    "dataNascita": "19/08/1973"
+  },
+  {
+    "numero": "",
+    "ruolo": "Allenatore",
+    "nome": "Marcello Lippi",
+    "squadra": "",
+    "dataNascita": "12/04/1948"
+  }
+]
