@@ -10,5 +10,9 @@
  {
   "nome": "stampante",
   "prezzo": 350.00
+ },
+  {
+  "nome": "pizza",
+  "prezzo": 9.90
  }
 ]
